@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="date_kind">
+        <item>코어</item>
+        <item>가슴</item>
+        <item>어깨</item>
+        <item>복부</item>
+        <item>등</item>
+        <item>상완/전완</item>
+        <item>하체</item>
+    </string-array>
+
+    <string-array name="date_core">
+        <item>크런치</item>
+        <item>데드리프트</item>
+        <item>힙 레이즈</item>
+        <item>리버스 힙레이즈</item>
+        <item>하드 클린</item>
+        <item>제자리 점프</item>
+        <item>잔발 뛰기</item>
+        <item>암 워킹</item>
+        <item>버피 테스트</item>
+        <item>팔 벌려 뛰기</item>
+        <item>제자리 뛰기</item>
+        <item>숨쉬기</item>
+    </string-array>
+
+    <string-array name="date_top_name">
+        <item>머신 벤치</item>
+        <item>바벨 벤치</item>
+        <item>덤벨 벤치</item>
+        <item>바벨 인클라인 벤치</item>
+        <item>덤벨 인클라인 벤치</item>
+        <item>덤벨 인클라인 플라이</item>
+        <item>바벨 디클라인 벤치</item>
+        <item>덤벨 플라이</item>
+        <item>덤벨 풀오버</item>
+        <item>펙 덱 머신 플라이</item>
+        <item>딥스</item>
+        <item>푸시업</item>
+        <item>니 푸시업</item>
+        <item>케이블 크로스오버</item>
+        <item>푸시업 사이드 점프</item>
+    </string-array>
+
+    <string-array name="date_sh">
+        <item>머신 숄더프레스</item>
+        <item>머신 넥프레스</item>
+        <item>바벨 숄더프레스</item>
+        <item>바벨 넥프레스</item>
+        <item>덤벨 숄더프레스</item>
+        <item>아놀드 프레스</item>
+        <item>프런트 레이즈</item>
+        <item>래터럴 레이즈</item>
+        <item>업라이트 로우</item>
+        <item>쉬러그</item>
+        <item>이지 클린</item>
+        <item>어깨7</item>
+        <item>어깨7</item>
+        <item>어깨7</item>
+    </string-array>
+
+    <string-array name="date_body">
+        <item>싯업</item>
+        <item>크런치</item>
+        <item>리버스 크런치</item>
+        <item>케이블 크런치</item>
+        <item>레그 레이즈</item>
+        <item>V 업</item>
+        <item>시티드 니업</item>
+        <item>오블리크 크런치</item>
+        <item>덤벨 사이드 벤드</item>
+        <item>리버스 트렁크 트위스트</item>
+        <item>크로스 크런치</item>
+        <item>러시안 트위스트</item>
+        <item>사이드 크런치</item>
+        <item>사이드 벤드</item>
+        <item>양손 다리 모으기</item>
+        <item>엎드려 점프</item>
+        <item>다리 교차 뛰기</item>
+    </string-array>
+
+    <string-array name="date_back">
+        <item>머신 랫 풀다운</item>
+        <item>바벨 로우</item>
+        <item>덤벨 로우</item>
+        <item>케이블 로우</item>
+        <item>T바 로우</item>
+        <item>풀업</item>
+        <item>슈퍼맨</item>
+    </string-array>
+
+    <string-array name="date_arms">
+        <item>벤치 프레스</item>
+        <item>벤치 딥스</item>
+        <item>덤벨 프레스 컬</item>
+        <item>덤벨 인클라인 컬</item>
+        <item>바벨 컬</item>
+        <item>바벨 리버스 컬</item>
+        <item>덤벨 해머 컬</item>
+        <item>바벨 프리쳐 컬</item>
+        <item>덤벨 콘센트레이션 컬</item>
+        <item>케이블 컬</item>
+        <item>이지바 컬</item>
+        <item>밴드 컬</item>
+        <item>트라이셉스 익스텐션</item>
+        <item>덤벨 킥 백</item>
+        <item>바벨 리스트 컬</item>
+        <item>덤벨 리스트 컬</item>
+        <item>바벨 리버스 리스트 컬</item>
+        <item>덤벨 리버스 리슽트 컬</item>
+        <item>덤벨 조트맨 컬</item>
+        <item>덤벨 프로네이션</item>
+        <item>덤벨 슈피네이션</item>
+    </string-array>
+
+    <string-array name="date_bottom_name">
+        <item>스쿼트</item>
+        <item>스모 데드리프트</item>
+        <item>바벨 스쿼트</item>
+        <item>덤벨 스쿼트</item>
+        <item>머신 스쿼트</item>
+        <item>점프 스쿼트</item>
+        <item>와이드 스쿼트</item>
+        <item>레그 프레스</item>
+        <item>레그 익스텐션</item>
+        <item>런지</item>
+        <item>바벨 런지</item>
+        <item>사이드 런지</item>
+        <item>덤벨 스텝업</item>
+        <item>스탠딩 레그컬</item>
+        <item>라잉 레그컬</item>
+    </string-array>
+
+    <string-array name="date_set">
+        <item>5회</item>
+        <item>6회</item>
+        <item>7회</item>
+        <item>8회</item>
+        <item>9회</item>
+        <item>10회</item>
+        <item>11회</item>
+        <item>12회</item>
+        <item>13회</item>
+        <item>14회</item>
+        <item>15회</item>
+        <item>16회</item>
+        <item>17회</item>
+        <item>18회</item>
+        <item>19회</item>
+        <item>20회</item>
+        <item>25회</item>
+        <item>30회</item>
+    </string-array>
+
+    <string-array name="date_count">
+        <item>1세트</item>
+        <item>2세트</item>
+        <item>3세트</item>
+        <item>4세트</item>
+        <item>5세트</item>
+        <item>6세트</item>
+        <item>7세트</item>
+    </string-array>
+
+</resources>

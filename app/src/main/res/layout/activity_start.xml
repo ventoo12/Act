@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#374958"
+    android:orientation="vertical"
+    android:paddingLeft="12dp"
+    android:paddingTop="14dp"
+    android:paddingRight="12dp">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="루틴 설정"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#ffffff" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="62dp"
+        android:background="@drawable/spinner_black"
+        android:orientation="horizontal"
+        android:weightSum="10">
+
+        <Spinner
+            android:id="@+id/spinner"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:spinnerMode="dropdown" />
+
+        <Spinner
+            android:id="@+id/spinner2"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="4"
+            android:spinnerMode="dropdown" />
+
+        <Spinner
+            android:id="@+id/set"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:spinnerMode="dropdown" />
+
+        <Spinner
+            android:id="@+id/count"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:spinnerMode="dropdown" />
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="126dp"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/et"
+            android:layout_width="87dp"
+            android:layout_height="107dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:hint="휴식 설정"
+            android:textColor="#ffffff"
+            android:textColorHint="#ffffff"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/btn"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="200dp"
+            android:text="휴식시작"
+            android:textSize="20sp" />
+
+    </RelativeLayout>
+
+</LinearLayout>
